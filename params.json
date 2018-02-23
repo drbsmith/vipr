@@ -1,6 +1,6 @@
 {
   "name": "Vipr",
   "tagline": "Video Image PRocessing (vipr) for Max",
-  "body": "### VIPR\r\nFor more information download the release and play with it, or go to [this announcement page](http://ben.musicsmiths.us/vipr.phtml).\r\n",
+  "body": "### VIPR\r\nFor more information download the release and play with it, or go to [this announcement page](http://ben.musicsmiths.us/vipr.phtml).\r\n\r\nDownload VIPR Max objects using these links\r\n\r\nFor Mac OS: [https://github.iu.edu/bds6/vipr/releases/download/v1.0/vipr.zip](https://github.iu.edu/bds6/vipr/releases/download/v1.0/vipr.zip)\r\n\r\nFor Windows (32 bit Max only): [https://github.iu.edu/bds6/vipr/releases/download/v1.0/vipr-win32.zip](https://github.iu.edu/bds6/vipr/releases/download/v1.0/vipr-win32.zip)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
